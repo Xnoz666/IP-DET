@@ -8,7 +8,7 @@ DOWNLOAD TERMUX TERBARU
   <a href="https://github.com/Xnoz6666"><img src="http://readme-typing-svg.herokuapp.com?color=FF1493&center=true&vCenter=true&multiline=false&lines=+Selamat+Datang+User+Termux+^_^" alt="UwU">
 
 <details open>
-  <summary><strong> Install Script ©NaomyValen</strong></summary>
+  <summary><strong> Install Script ©NXnoz666</strong></summary>
   
 ```python
 git clone https://github.com/NaomyValen/RtmTracking.git
