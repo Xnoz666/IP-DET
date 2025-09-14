@@ -5,7 +5,7 @@ DOWNLOAD TERMUX TERBARU
 <li><a href="https://www.mediafire.com/file/r1ay7mhb9j2toix/com.termux_118.zip/file">Termux_118</a></code></li> 
 <p align="center">
   
-  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FF1493&center=true&vCenter=true&multiline=false&lines=+Selamat+Datang+User+Termux+^_^" alt="UwU">
+  <a href="https://github.com/Xnoz6666"><img src="http://readme-typing-svg.herokuapp.com?color=FF1493&center=true&vCenter=true&multiline=false&lines=+Selamat+Datang+User+Termux+^_^" alt="UwU">
 
 <details open>
   <summary><strong> Install Script ©NaomyValen</strong></summary>
@@ -48,4 +48,4 @@ Menu 2
   <img src="Data/image2.jpg">
 </p>
 
-• Yang Mau Bertanya, Silakan PM discord Saya Ya! > `@_naomyvalen18`
+• Yang Mau Bertanya, Silakan PM discord Saya Ya! > `@Xnoz666`
